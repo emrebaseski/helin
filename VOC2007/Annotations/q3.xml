@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+    <folder>JPEGImages</folder>
+    <filename>q3.jpg</filename>
+    <path>/home/emre/proje/heliport2/JPEGImages/q3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>667</width>
+        <height>582</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>heliport</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>417</xmin>
+            <ymin>295</ymin>
+            <xmax>464</xmax>
+            <ymax>339</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>heliport</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>402</xmin>
+            <ymin>410</ymin>
+            <xmax>443</xmax>
+            <ymax>451</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>heliport</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>559</xmin>
+            <ymin>439</ymin>
+            <xmax>603</xmax>
+            <ymax>479</ymax>
+        </bndbox>
+    </object>
+</annotation>

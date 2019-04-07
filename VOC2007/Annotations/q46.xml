@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+    <folder>JPEGImages</folder>
+    <filename>q46.jpg</filename>
+    <path>/home/emre/proje/heliport2/JPEGImages/q46.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>654</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>heliport</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>199</xmin>
+            <ymin>276</ymin>
+            <xmax>221</xmax>
+            <ymax>295</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>heliport</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>245</xmin>
+            <ymin>291</ymin>
+            <xmax>268</xmax>
+            <ymax>310</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>heliport</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>184</xmin>
+            <ymin>323</ymin>
+            <xmax>207</xmax>
+            <ymax>343</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>heliport</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>231</xmin>
+            <ymin>340</ymin>
+            <xmax>254</xmax>
+            <ymax>359</ymax>
+        </bndbox>
+    </object>
+</annotation>

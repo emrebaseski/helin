@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+    <folder>JPEGImages</folder>
+    <filename>q30.jpg</filename>
+    <path>/home/emre/proje/heliport2/JPEGImages/q30.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>584</width>
+        <height>724</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>heliport</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>257</xmin>
+            <ymin>392</ymin>
+            <xmax>315</xmax>
+            <ymax>461</ymax>
+        </bndbox>
+    </object>
+</annotation>

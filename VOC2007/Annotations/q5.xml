@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+    <folder>JPEGImages</folder>
+    <filename>q5.jpg</filename>
+    <path>/home/emre/proje/heliport2/JPEGImages/q5.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>382</width>
+        <height>604</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>heliport</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>141</xmin>
+            <ymin>305</ymin>
+            <xmax>164</xmax>
+            <ymax>327</ymax>
+        </bndbox>
+    </object>
+</annotation>
